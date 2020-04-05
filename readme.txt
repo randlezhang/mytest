@@ -11,3 +11,4 @@ checkout from feature to master.
 =======
 checkout from feature to master.
 >>>>>>> feature1
+branch management test on dev!
