@@ -6,4 +6,8 @@ version manage test1!
 version manage test2!
 Test remote push!
 dev branch test!
-cheakout from feature to master. 
+<<<<<<< HEAD
+checkout from feature to master. 
+=======
+checkout from feature to master.
+>>>>>>> feature1
